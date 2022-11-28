@@ -184,3 +184,12 @@ width:10%;
   background-color: #E3FDFD;
   padding: 40px 0 40px 0;
   }
+
+.portfolio-title{
+    font-size: 4rem;
+    margin: -40px auto 0 auto;
+  font-family: Dosis, sans-serif;
+  color: #256D85;
+  line-height: 2;
+
+}
