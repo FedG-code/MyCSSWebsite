@@ -154,3 +154,33 @@ width:10%;
   background-image: linear-gradient(to bottom, #61a5cf, #2ab8d1);
   text-decoration: none;
 }
+
+.portfolio-paragraph{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.fibster-logo{
+  width: 361px;
+  height: 562px;
+}
+
+.article-image{
+  width: 410px;
+  height: 410px;
+}
+
+.happy-but-image{
+  width: 960px;
+  height:540px;
+}
+
+.jumpman-image{
+  width: 923px;
+  height: 559px;
+}
+
+.portfolio-container{
+  background-color: #E3FDFD;
+  padding: 40px 0 40px 0;
+  }
