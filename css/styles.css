@@ -155,11 +155,6 @@ width:10%;
   text-decoration: none;
 }
 
-.portfolio-paragraph{
-  margin-left: 30%;
-  margin-right: 30%;
-}
-
 .fibster-logo{
   width: 361px;
   height: 562px;
@@ -171,13 +166,22 @@ width:10%;
 }
 
 .happy-but-image{
-  width: 960px;
-  height:540px;
+  width: 768px;
+  height:432px;
 }
 
 .jumpman-image{
   width: 923px;
   height: 559px;
+}
+
+.vega-image{
+  height: 420px;
+}
+
+.grid-image{
+  width: 410px;
+  height: 410px;
 }
 
 .portfolio-container{
@@ -192,4 +196,23 @@ width:10%;
   color: #256D85;
   line-height: 2;
 
+}
+
+.portfolio-paragraph{
+  margin-left: 27%;
+  margin-right: 27%;
+}
+
+.row{
+  display: flex;
+}
+
+.column{
+  flex:50%;
+  padding:10px;
+}
+
+.grid-paragraph{
+  margin-left: 21%;
+  margin-right: 21%;
 }
